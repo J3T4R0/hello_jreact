@@ -15,7 +15,7 @@
   "maybe": {:git, "git://github.com/timCF/maybe.git", "0c500e3abb3d9b82b65915bf7f388ccf004bb790", []},
   "meck": {:git, "git://github.com/eproxus/meck.git", "dde759050eff19a1a80fd854d7375174b191665d", [tag: "0.8.2"]},
   "mustache": {:git, "https://github.com/soranoba/mustache.git", "e5401042c66039eef20ee81abc1537ced1f22bc7", [tag: "v0.3.0"]},
-  "myswt": {:git, "git://github.com/timCF/myswt.git", "337322fc8b8d602e1388bdd3bbb4678fdfb54810", [branch: "megaweb"]},
+  "myswt": {:git, "git://github.com/timCF/myswt.git", "d53c8ff23037432ebef348f876db0939fd23fec8", [branch: "megaweb"]},
   "providers": {:git, "https://github.com/tsloughter/providers.git", "d565693cbbca3457df34d95c53c47e1faa8cde6c", [tag: "v1.3.0"]},
   "ranch": {:git, "git://github.com/extend/ranch.git", "5df1f222f94e08abdcab7084f5e13027143cc222", [ref: "0.9.0"]},
   "rebar_vsn_plugin": {:git, "https://github.com/erlware/rebar_vsn_plugin.git", "fd40c960c7912193631d948fe962e1162a8d1334", [branch: "master"]},
