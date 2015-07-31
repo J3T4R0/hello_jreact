@@ -16,9 +16,12 @@ use Mix.Config
 #       metadata: [:user_id]
 
 config :myswt, 
-    app: :hello_jreact, 
-    server_port: 8081, 
-    callback_module: HelloJreact.Myswt.Callbacks
+	app: :hello_jreact, 
+	server_port: 8081, 
+	callback_module: HelloJreact.Myswt.Callbacks,
+	basic_auth: %{login: "hello", password: "world"}
+config :bullet,
+	basic_auth: %{login: "hello", password: "world"}
 
 # It is also possible to import configuration files, relative to this
 # directory. For example, you can emulate configuration per environment
